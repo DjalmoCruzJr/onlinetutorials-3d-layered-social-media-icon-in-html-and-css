@@ -3,9 +3,7 @@
 
 
 <h2>Preview</h2>
-<a href="https://djalmocruzjr.github.io/tutorial-onlinetutorials-3d-layered-social-media-icon-in-html-and-css/" target="_blank'>https://djalmocruzjr.github.io/tutorial-onlinetutorials-3d-layered-social-media-icon-in-html-and-css</a>
-
-
+<a href="https://djalmocruzjr.github.io/tutorial-onlinetutorials-3d-layered-social-media-icon-in-html-and-css/" target="_blank">https://djalmocruzjr.github.io/tutorial-onlinetutorials-3d-layered-social-media-icon-in-html-and-css</a>
 
 <h2>Screenshots</h2>
 <img src="https://raw.githubusercontent.com/DjalmoCruzJr/tutorial-onlinetutorials-3d-layered-social-media-icon-in-html-and-css/master/screenshot/screenshot.gif">
